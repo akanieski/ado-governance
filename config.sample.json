@@ -1,0 +1,11 @@
+{
+    "OrganizationUrl": "https://dev.azure.com/devops-collab",
+    "PersonalAccessToken": "Your PAT",
+    "CheckGroupForExplicitAccess": [
+        "[Some Org]\\Project Collection Administrators",
+        "[Some Project]\\Project Administrators"
+    ],
+    "CheckProjectGroupsForExplicitAccess": [
+        "Project Administrators"
+    ]
+}
